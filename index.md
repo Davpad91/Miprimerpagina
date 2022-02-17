@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/Davpad91/Miprimerpagina/ed
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Es dificil aprender cuando no se tiene tiempo
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
